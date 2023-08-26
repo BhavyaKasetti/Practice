@@ -1,4 +1,4 @@
 # Practice
-this is practiced under the apna college video.
+This is practiced under the apna college video.
 <br>
-Author : Bhavya
+Author : Bhavya(Developer)
